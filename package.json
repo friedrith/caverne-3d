@@ -1,0 +1,41 @@
+{
+  "name": "caverne-3d",
+  "version": "0.1.0",
+  "description": "explore caverns in 3d",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/friedrith/caverne-3d.git"
+  },
+  "keywords": [
+    "cavern",
+    "speleology"
+  ],
+  "author": "Thibault Friedrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/friedrith/caverne-3d/issues"
+  },
+  "homepage": "https://github.com/friedrith/caverne-3d#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "babel-eslint": "^7.2.3",
+    "css-loader": "^0.28.7",
+    "eslint": "^3.5.0",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-jsx-a11y": "^1.2.2",
+    "eslint-plugin-meteor": "^3.6.0",
+    "eslint-plugin-react": "^5.1.1",
+    "html-webpack-plugin": "^2.30.1",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
