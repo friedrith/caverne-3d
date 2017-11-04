@@ -3,7 +3,13 @@ body, html, .iframe {
   width: 100%;
   margin: 0;
   padding: 0;
-  background: black;
+  background: white;
+  // background: black;
   overflow: hidden;
   border: none;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
 }
